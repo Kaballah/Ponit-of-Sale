@@ -433,7 +433,7 @@ public class MainActivity extends AppCompatActivity {
                 String flour_price = textView7.getText().toString();
 
                 String sub_total = textView20.getText().toString();
-                String discount;
+//                String discount;
                 String total = textView19.getText().toString();
 
                 Intent intent = new Intent(getApplicationContext(), MainActivity2.class);
